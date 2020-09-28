@@ -1,1 +1,1 @@
-Hough lines and circles examples.
+Hough lines and circles implementation and comparison to opencv's functions.
